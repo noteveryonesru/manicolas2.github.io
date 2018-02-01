@@ -1,0 +1,63 @@
+body{
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	width: 45%;
+	margin:auto;
+}
+
+#mypic {
+	width: 480px;
+	height: 270.5px;
+	border: 2px solid white;
+	border-radius: 50%;
+}
+
+#namePic{
+	background-color: red;
+	color:white;
+	font-size: 40px;
+	padding: 0px;
+}
+
+#aboutMe{
+	
+}
+
+#whyCS{
+	background-color: blue;
+	color: white;
+	padding: 5px;
+}
+
+#favePL{
+
+}
+
+#addInfo{
+	background-color: red;
+	color: white;
+}
+
+#hobbies{
+	background-color: white;
+	color:black;
+}
+
+#faveFoodColor{
+	font-size: 35px;
+	padding: 10px;
+	margin: 10px;
+}
+
+#faveFoodColor p{
+	font-family: 'Pacifico', cursive;
+	margin-top: -50px;
+}
+
+#redFave{
+	background-color: white;
+	color:red;
+	font-size: 70px;
+	width: 40%;
+	margin: auto;
+}
