@@ -1,0 +1,24 @@
+header {
+		color:White;
+		font-size:50pt;
+		font-family:Impact;
+		border:solid 2px white;
+		text-align:center
+}
+
+
+.first {	border:dashed	 5px white;
+		border-radius:25%;
+}
+
+#main {
+	float: center;
+}
+
+#firstCol {
+		
+}
+
+#secondCol {
+
+}
