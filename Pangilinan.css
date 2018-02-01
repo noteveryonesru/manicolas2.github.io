@@ -1,0 +1,96 @@
+﻿body{
+	font-family: Courier New;
+	background-image:url("PangilinanBG.jpg");
+	background-size: cover;
+	}
+	
+header{
+	text-align: center;
+	}
+
+nav{
+	background-color: black;
+	padding: 10px;
+	word-spacing: 100px;
+	width: 70%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+a{
+	color: white;
+	text-decoration: none;
+	}
+	
+#linkHome a:hover{
+	color: #c1c1c1;
+	}
+	
+#mainHome{
+	width: 45%;
+	height: 7in;
+	padding: 25px;
+	float: left;
+	margin-left: 15%;
+	margin-bottom: 20px;
+	background-image: url("PangilinanPaper.jpg");
+	background-size: cover;
+	}
+
+
+#mainHome p{
+	font-size: 12px;
+}
+
+sidebar{
+	width: 3.2in;
+	height: 7in;
+	padding: 10px 10px 10px 10px;
+	float: right;
+	margin-right: 15%;
+	margin-bottom: 20px;
+	text-align: center;
+	}
+	
+#infoHome{
+	color:white;
+	font-weight:bold;
+	}
+	
+#contact{
+	margin-top: .5in;
+	}
+
+#contact p{
+	background-color: black;
+	color: white;
+	margin: 5px
+	}
+
+#contact p:hover{
+	background-color: white;
+}
+
+#contact a:hover{
+	color: black;
+	}	
+
+footer{
+	font-size: small;
+	color: white;
+	background-color: black;
+	padding: 10px ;
+	word-spacing: 10px;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	text-align: center;
+	clear: both;
+	}
+
+p{
+	line-height: 30px;
+	}
