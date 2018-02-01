@@ -1,0 +1,58 @@
+html{
+	font-size: 10px;
+}
+
+body{
+	background-color: #202020;
+	text-align: center;
+	height: 100%;
+	margin: 0;
+}
+
+.top_bar, .bottom_bar {
+    height: 30px;
+}
+
+.div_content1{
+	margin: 0 auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: 100%;
+	background-color: #252525;
+}
+
+.div_c1_sub1{
+	width: 40%;
+	height: 100%;
+	margin: auto;
+	padding: 10px;
+	position: relative;
+	color: #ffffff;
+	float: left;
+	overflow: hidden;
+}
+
+p{
+	font-size: 1.5rem;
+}
+
+.h1_01{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.img01{
+	content: url(https://scontent.fcrk1-1.fna.fbcdn.net/v/t1.0-1/c60.0.240.240/p240x240/10393900_883616101652951_8149388248683634409_n.jpg?oh=6c71f2a4a9090578feb56174d6b2d2d1&oe=5AE7BC56);
+	width: 400px;
+	height: 400px;
+	margin: 0 auto;
+}
+
+.div_c1_sub2{
+	float: left;
+	width: 40%;
+	height: stretch;
+	overflow: hidden;
+}
